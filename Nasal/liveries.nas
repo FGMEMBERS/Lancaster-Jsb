@@ -1,2 +1,2 @@
-aircraft.livery.init("Aircraft/Avro-Lancaster/Models/Liveries");
+aircraft.livery.init("Aircraft/Lancaster-Jsb/Models/Liveries");
 

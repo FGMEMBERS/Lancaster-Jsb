@@ -13,7 +13,7 @@
 
   <!-- ASI -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/asi/asi.xml</path>
     <offsets>
       <x-m>  0.112 </x-m>
       <y-m> -0.374 </y-m>
@@ -23,7 +23,7 @@
 
   <!-- AI -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/ai/ai.xml</path>
     <offsets>
       <x-m>  0.110 </x-m>
       <y-m> -0.273 </y-m>
@@ -33,7 +33,7 @@
 
   <!-- VSI -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
     <offsets>
       <x-m>  0.113 </x-m>
       <y-m> -0.175 </y-m>
@@ -43,7 +43,7 @@
 
   <!-- ALT -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/alt/alt.xml</path>
     <offsets>
       <x-m>  0.110 </x-m>
       <y-m> -0.374 </y-m>
@@ -53,7 +53,7 @@
 
   <!-- COMPASS -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/compass/compass.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/compass/compass.xml</path>
     <offsets>
       <x-m>  0.112 </x-m>
       <y-m> -0.273 </y-m>
@@ -63,7 +63,7 @@
 
   <!-- TURN -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/turn/turn.xml</path>
     <offsets>
       <x-m>  0.111 </x-m>
       <y-m> -0.175 </y-m>
@@ -73,7 +73,7 @@
 
   <!-- RPM 1 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/rpm/rpm-1.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/rpm/rpm-1.xml</path>
     <offsets>
       <x-m>  0.103 </x-m>
       <y-m> -0.040 </y-m>
@@ -83,7 +83,7 @@
 
   <!-- RPM 2 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/rpm/rpm-2.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/rpm/rpm-2.xml</path>
     <offsets>
       <x-m> 0.103 </x-m>
       <y-m> 0.040 </y-m>
@@ -93,7 +93,7 @@
 
   <!-- RPM 3 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/rpm/rpm-3.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/rpm/rpm-3.xml</path>
     <offsets>
       <x-m> 0.103 </x-m>
       <y-m> 0.120 </y-m>
@@ -103,7 +103,7 @@
 
   <!-- RPM 4 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/rpm/rpm-4.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/rpm/rpm-4.xml</path>
     <offsets>
       <x-m> 0.103 </x-m>
       <y-m> 0.200 </y-m>
@@ -113,7 +113,7 @@
 
   <!-- BOOST 1 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/boost/boost-1.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/boost/boost-1.xml</path>
     <offsets>
       <x-m>  0.106 </x-m>
       <y-m> -0.040 </y-m>
@@ -123,7 +123,7 @@
 
   <!-- BOOST 2 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/boost/boost-2.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/boost/boost-2.xml</path>
     <offsets>
       <x-m> 0.106 </x-m>
       <y-m> 0.040 </y-m>
@@ -133,7 +133,7 @@
 
   <!-- BOOST 3 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/boost/boost-3.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/boost/boost-3.xml</path>
     <offsets>
       <x-m> 0.106 </x-m>
       <y-m> 0.120 </y-m>
@@ -143,7 +143,7 @@
 
   <!-- BOOST 4 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/boost/boost-4.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/boost/boost-4.xml</path>
     <offsets>
       <x-m> 0.106 </x-m>
       <y-m> 0.200 </y-m>

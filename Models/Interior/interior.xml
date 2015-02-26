@@ -46,7 +46,7 @@
 
   <!-- Pilote -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Pilot/pilot.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Pilot/pilot.xml</path>
     <offsets>
       <x-m> -8.034 </x-m>
       <y-m> -0.231 </y-m>
@@ -59,7 +59,7 @@
 
   <!-- Planche de bord -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/panel.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/panel.xml</path>
     <offsets>
       <x-m> -8.998 </x-m>
       <y-m>  0.000 </y-m>
@@ -72,7 +72,7 @@
 
   <!-- R1155 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/r1155/r1155.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/r1155/r1155.xml</path>
     <offsets>
       <x-m> -6.203 </x-m>
       <y-m> -0.329 </y-m>
@@ -82,7 +82,7 @@
 
   <!-- T1154 -->
   <model>
-    <path>Aircraft/Avro-Lancaster/Models/Interior/Panel/Instruments/t1154/t1154.xml</path>
+    <path>Aircraft/Lancaster-Jsb/Models/Interior/Panel/Instruments/t1154/t1154.xml</path>
     <offsets>
       <x-m> -6.203 </x-m>
       <y-m> -0.328 </y-m>
